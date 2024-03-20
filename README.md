@@ -7,10 +7,10 @@ Unity 2D top-down zombie shooter game
 **Demo:** <br />
 
 ## Features<br />
-**Player Input** - Uses Unity's new input system as a base. Players can move their character using WASD keys and aim at enemies using right mouse buttons. Players can shoot using left mouse button.
-**2D Animation** - Players and enemies have their own 2d animations on death and while walking.
-**Enemy AI** - Simple enemy AI that has player aggression and wandering AI.
-**2D Physics** - Entities are using 2D physics system such as colliders for bullets when hitting enemies
-**Enemy Spawning** - Enemy spawning mechanic that dynamically generates enemies at random intervals outside the playable area
-**Health System** - Players and enemies utilize a health system that manages their current health and provides functionality for taking damage, healing, and handling death conditions. The health system typically consists of a script attached to entities that require health management, such as players or enemies
-**Score Tracking** - Features score tracking functionality to monitor player kills. Points are awarded for defeating enemies within the game.
+**Player Input** - Uses Unity's new input system as a base. Players can move their character using WASD keys and aim at enemies using right mouse buttons. Players can shoot using left mouse button.<br />
+**2D Animation** - Players and enemies have their own 2d animations on death and while walking.<br />
+**Enemy AI** - Simple enemy AI that has player aggression and wandering AI.<br />
+**2D Physics** - Entities are using 2D physics system such as colliders for bullets when hitting enemies<br />
+**Enemy Spawning** - Enemy spawning mechanic that dynamically generates enemies at random intervals outside the playable area<br />
+**Health System** - Players and enemies utilize a health system that manages their current health and provides functionality for taking damage, healing, and handling death conditions. The health system typically consists of a script attached to entities that require health management, such as players or enemies<br />
+**Score Tracking** - Features score tracking functionality to monitor player kills. Points are awarded for defeating enemies within the game.<br />
